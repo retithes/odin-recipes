@@ -1,0 +1,1 @@
+I will build an HTML project that links to different recipes through its main index page. I am going to test everything that I've learned so far as far as HTML is concerned and keep the project active so that I can enrich it later with my CSS knowledge.
